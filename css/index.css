@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Inter";
+  font-style: normal;
+}
+.my {
+  position: absolute;
+  width: 224px;
+  height: 224px;
+  left: 168px;
+  top: 168px;
+  border-radius: 50%;
+  background-image: url("/img/c_mlh-fyD8A.jpg");
+  background-size: cover;
+  background-position: 4 0%;
+  margin-bottom: 48px;
+}
+h1 {
+  position: absolute;
+  width: 304px;
+  height: 104px;
+  left: 168px;
+  top: 440px;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 52px;
+  margin-bottom: 16px;
+}
+.work {
+  position: absolute;
+  width: 304px;
+  height: 36px;
+  left: 168px;
+  top: 560px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 52px;
+}
+.skills {
+  position: absolute;
+  width: 304px;
+  height: 260px;
+  left: 168px;
+  top: 692px;
+  margin-top: 96px;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 32px;
+}
+.education {
+  position: absolute;
+  width: 304px;
+  height: 420px;
+  left: 168px;
+  top: 1048px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 32px;
+}
+.languages {
+  position: absolute;
+  width: 229px;
+  height: 140px;
+  left: 168px;
+  top: 1300px;
+  font-weight: 450;
+  font-size: 20px;
+  line-height: 32px;
+}
+.info {
+  list-style-type: none;
+}
+.line {
+  position: absolute;
+  border: 1px solid black;
+  width: 1px;
+  height: 1356px;
+  left: 559px;
+  top: 168px;
+  background-color: black;
+  margin: 168, 880, 316, 559;
+}
+.contact {
+  position: absolute;
+  width: 352px;
+  height: 220px;
+  left: 648px;
+  top: 168px;
+}
